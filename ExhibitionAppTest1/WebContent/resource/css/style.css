@@ -19,7 +19,30 @@ td.ver{vertical-align:middle!important;}
 input[name='extitle']{font-weight:bold; font-size:1.1em;}
 textarea{width:100%; outline:0; border:0; border-bottom:1px solid #c2c2c2;}
 .line{margin:20px 0px;}
+.btn-mint{
+	background:#77bbbb !important;
+	color:#fff; width:20%;
+}
+.btn-pink{
+	background:#ffa4d1 !important;
+	color:#fff; width:20%;
+}
+.btn-mint:hover{
+	background:#50a0a0 !important; color:#Fff;}
+.btn-pink:hover{
+	background:#ff7dbe !important; color:#Fff;}
+	
+.form_wrap{
+	width:100%; padding:5%;
+	max-height:360px;
+	margin:10px 0px;
+	border: 1px solid #ccc;
+	border-radius:10px;
+}
 
+.form_wrap:hover{
+	box-shadow:0px 0px 5px 2px #ccc;
+}
 
 
 
